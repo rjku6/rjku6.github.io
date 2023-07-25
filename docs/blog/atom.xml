@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/blog</id>
-    <title>我的教程网站 Blog</title>
+    <title>Hexo Acrylic文档简易版 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
-    <subtitle>我的教程网站 Blog</subtitle>
+    <subtitle>Hexo Acrylic文档简易版 Blog</subtitle>
     <icon>https://your-docusaurus-test-site.com/https://cdn.imlwj.cn/nb.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
